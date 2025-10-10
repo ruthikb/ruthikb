@@ -55,7 +55,7 @@
     </th> 
      <th>
     <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="24" alt="Instagram" />
-    <a href="https://www.instagram.com/manu.__31?igsh=MWZqOWphY2UzNnhmZA==" target="_blank" rel="noopener noreferrer">Instagram</a>
+    <a href="https://www.instagram.com/kruthik.___b?igsh=MWVxaHd3dXdva3Zyaw==" target="_blank" rel="noopener noreferrer">Instagram</a>
   </th> 
   </tr>
 </table>
