@@ -57,7 +57,11 @@
     <th>
       <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="24" alt="Instagram" />
       <a href="https://www.instagram.com/kruthik.___b?igsh=MWVxaHd3dXdva3Zyaw==" target="_blank" rel="noopener noreferrer">Instagram</a>
-    </th> 
+    </th>
+    <th>
+      <img align="center" src="https://img.icons8.com/fluency/48/domain.png" width="24" alt="Portfolio" />
+      <a href="YOUR_PORTFOLIO_LINK_HERE" target="_blank" rel="noopener noreferrer">Portfolio</a>
+    </th>
   </tr>
 </table>
 
