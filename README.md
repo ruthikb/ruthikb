@@ -60,7 +60,7 @@
     </th>
     <th>
       <img align="center" src="https://img.icons8.com/fluency/48/domain.png" width="24" alt="Portfolio" />
-      <a href="YOUR_PORTFOLIO_LINK_HERE" target="_blank" rel="noopener noreferrer">Portfolio</a>
+      <a href="https://ruthikb.github.io/Kruthik-portfolio/" target="_blank" rel="noopener noreferrer">Portfolio</a>
     </th>
   </tr>
 </table>
