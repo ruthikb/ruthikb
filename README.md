@@ -1,6 +1,6 @@
 <!-- HEADER -->
 
-<h1 align="center">Hi 👋, I'm Kruthik</h1>
+<h1 align="center">Hi  I'm Kruthik B</h1>
 <h3 align="center">🚀 Java Full-Stack Developer | Problem Solver</h3>
 
 <p align="center">
