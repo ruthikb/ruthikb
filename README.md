@@ -17,6 +17,7 @@
 * 🔍 Interested in **building scalable web applications**
 * 📫 Reach me: **[kruthik693@gmail.com](mailto:kruthik693@gmail.com)**
 
+
 ---
 
 ## 🛠️ Tech Stack
